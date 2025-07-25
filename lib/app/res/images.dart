@@ -9,4 +9,7 @@ class Images {
 
   /// logos
   static const appLogo = "$_logoPath/app-logo.jpg";
+
+  static const appleLogo = "$_imagePath/apple-logo.png";
+  static const googleLogo = "$_imagePath/google-logo.png";
 }
